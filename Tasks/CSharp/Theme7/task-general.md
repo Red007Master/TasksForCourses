@@ -40,7 +40,7 @@
 
 # Додатково:
 >## Мої Контакти:
->>**Email:** red007masterwork@gmail.com
+>>**Email:** red007masterwork@gmail.com<br>
 >>**Discord:** red007master
 >>**(Або Viber)**
 >>>### **При винекнені проблем з виконанням - пишіть.**
