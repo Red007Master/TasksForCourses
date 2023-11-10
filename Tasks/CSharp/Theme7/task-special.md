@@ -43,19 +43,15 @@
 >>### Habitat.cs:
 >>>```C#
 >>>public class Habitat {
->>>    // Variables
->>>    private string location;
->>>    private string climate;
+>>>    // Properties
+>>>    public string Location { get; }
+>>>    public string Climate { get; }
 >>>
 >>>    // Constructor
->>>    public Habitat(string loc, string clm) {
->>>        location = loc;
->>>        climate = clm;
+>>>    public Habitat(string location, string climate) {
+>>>        Location = location;
+>>>        Climate = climate;
 >>>    }
->>>
->>>    // Properties
->>>    public string Location { get { return location; } }
->>>    public string Climate { get { return climate; } }
 >>>}
 >>>```
 
@@ -70,4 +66,4 @@
 >>>Архів/Папка з файлами (бажано окремий для `Program` та `Car` і ТД)
 >>### Куди надсилати:
 >>>**Email:** - Архів або доступ до файлів на *Google Drive*.<br>
->>>**Viber:** - Посилання на *Google Drive* з файлами чи інший файлообмінник ʼ(Viber не друже з файлами)ʼ.
+>>>**Viber:** - Посилання на *Google Drive* з файлами чи інший файлообмінник (Viber не друже з файлами).
